@@ -27,7 +27,8 @@ body{
     border: 2px solid white;
     border-radius: 20px ;
     color: #fff;
-    
+    user-select: none;
+    cursor: pointer;
    
    background: rgba(0, 0, 0, 0.1);
    
